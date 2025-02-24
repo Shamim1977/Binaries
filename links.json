@@ -1,5 +1,15 @@
 {
-    "ffmpeg": "",
-    "ffprobe": "",
-    "ffplay": ""
+    "ffmpeg": {
+        "version": "",
+        "link": ""
+    },
+    "ffprobe": {
+        "version": "",
+        "link": ""
+    },
+    "ffplay": {
+        "version": "",
+        "link": ""
+    }
+    
 }
