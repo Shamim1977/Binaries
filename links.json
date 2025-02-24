@@ -2,21 +2,21 @@
     {
         "name": "ffmpeg",
         "version": "7.1",
-        "link": "",
+        "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffmpeg.exe",
         "install": 0
     },
     {
         "name": "ffprobe",
         "version": "7.1",
-        "link": "",
+        "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffplay.exe",
         "install": 0
     },
     {
         "name": "ffplay",
         "version": "7.1",
-        "link": "",
+        "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffplay.exe",
         "install": 0
-    },
+    },  
     {
         "name": "sox",
         "version": "14.4.2",
@@ -26,7 +26,7 @@
     {
         "name": "tesseract",
         "version": "5.3.0",
-        "link": "",
+        "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/tesseract-ocr-w64-setup-v5.3.0.20221214.exe",
         "install": 1
     },
     {
