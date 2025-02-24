@@ -1,26 +1,32 @@
-{
-    "ffmpeg": {
+[
+    {
+        "name": "ffmpeg",
         "version": "",
         "link": ""
     },
-    "ffprobe": {
+    {
+        "name": "ffprobe",
         "version": "",
         "link": ""
     },
-    "ffplay": {
+    {
+        "name": "ffplay",
         "version": "",
         "link": ""
     },
-    "sox": {
+    {
+        "name": "sox",
+        "version": "14.4.2",
+        "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/sox-14.4.2-win32.exe"
+    },
+    {
+        "name": "tesseract",
         "version": "",
         "link": ""
     },
-    "tesseract": {
+    {
+        "name": "espeak-ng",
         "version": "",
         "link": ""
-    },
-    "espeak-ng": {
-        "version": "",
-        "link": ""
-    }  
-}
+    }
+]
