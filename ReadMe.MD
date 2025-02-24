@@ -2,7 +2,7 @@
 
 <br>
 
-# FFMPEG for Windows to Downloads from Custom Apps
+# FFMPEG for Windows to Download from Custom Apps
 
 <br>
 <br>
