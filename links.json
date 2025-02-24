@@ -10,6 +10,17 @@
     "ffplay": {
         "version": "",
         "link": ""
-    }
-    
+    },
+    "sox": {
+        "version": "",
+        "link": ""
+    },
+    "tesseract": {
+        "version": "",
+        "link": ""
+    },
+    "espeak-ng": {
+        "version": "",
+        "link": ""
+    }  
 }

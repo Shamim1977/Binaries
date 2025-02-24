@@ -1,8 +1,8 @@
-<img src="assets/appicon.png" alt="FFMPEG-WIN" width="72">
+<img src="assets/appicon.png" alt="Binaries" width="72">
 
 <br>
 
-# FFMPEG for Windows to Download from Custom Apps
+# Necessary Binary downloads for Windows
 
 <br>
 <br>
