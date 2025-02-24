@@ -8,7 +8,7 @@
     {
         "name": "ffprobe",
         "version": "7.1",
-        "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffplay.exe",
+        "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffprobe.exe",
         "install": 0
     },
     {
