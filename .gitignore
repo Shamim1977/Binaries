@@ -1,6 +1,6 @@
 .vs/
 bin/
-intros/
-sfxs/
-bgs/
 bg_score/
+bgs_horizontal/
+bgs_vertical/
+sfxs/
