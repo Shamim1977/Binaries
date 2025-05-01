@@ -1,19 +1,19 @@
 {
     "cri": {
-        "from": 1,
-        "to": 65,
+        "min": 1,
+        "max": 65,
         "prefix": "credit_",
         "ext": "jpg"
     },
     "sfx": {
-        "from": 1,
-        "to": 62,
+        "min": 1,
+        "max": 62,
         "prefix": "sfx_",
         "ext": "mp3"
     },
     "score": {
-        "from": 1,
-        "to": 99,
+        "min": 1,
+        "max": 99,
         "prefix": "score_",
         "ext": "mp3"
     }
