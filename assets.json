@@ -1,0 +1,21 @@
+{
+    "cri": {
+        "from": 1,
+        "to": 65,
+        "prefix": "credit_",
+        "ext": "jpg"
+    },
+    "sfx": {
+        "from": 1,
+        "to": 62,
+        "prefix": "sfx_",
+        "ext": "mp3"
+    },
+    "score": {
+        "from": 1,
+        "to": 99,
+        "prefix": "score_",
+        "ext": "mp3"
+    }
+    
+}
