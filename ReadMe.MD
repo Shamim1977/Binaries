@@ -2,19 +2,13 @@
 
 <br>
 
-# Necessary Binary downloads for Windows
+# Necessary Downloads for Apps
+
 
 <br>
 <br>
-
-
-### Links
-
-```
-
-```
-
 <br>
+
 
 ## Developer
 
