@@ -22,6 +22,12 @@
         "max": 99,
         "prefix": "score_",
         "ext": "mp3"
+    },
+    "banners": {
+        "min": 1,
+        "max": 135,
+        "prefix": "banner_",
+        "ext": "jpg"
     }
     
 }
