@@ -1,7 +1,7 @@
 {
     "intro": {
         "min": 1,
-        "max": 59,
+        "max": 60,
         "prefix": "intro_",
         "ext": "mp4"
     },
