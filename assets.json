@@ -5,6 +5,12 @@
         "prefix": "intro_",
         "ext": "mp4"
     },
+    "intro_prev": {
+        "min": 1,
+        "max": 60,
+        "prefix": "intro_prev_",
+        "ext": "gif"
+    },
     "cri": {
         "min": 1,
         "max": 65,
