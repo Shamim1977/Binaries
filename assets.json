@@ -11,6 +11,12 @@
         "prefix": "intro_prev_",
         "ext": "gif"
     },
+    "intro_prev_img": {
+        "min": 1,
+        "max": 60,
+        "prefix": "intro_prev_",
+        "ext": "jpg"
+    },
     "cri": {
         "min": 1,
         "max": 65,
