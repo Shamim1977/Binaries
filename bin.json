@@ -1,58 +1,65 @@
 [
     {   
-        "name": "ffmpeg_win32",
+        "name": "ffmpeg",
         "version": "7.1",
         "platform": "win32",
         "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffmpeg_win32.exe",
         "install": 0
     },
     {
-        "name": "ffprobe_win32",
+        "name": "ffprobe",
         "version": "7.1",
         "platform": "win32",
         "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffprobe_win32.exe",
         "install": 0
     },
     {
-        "name": "ffmpeg_linux",
+        "name": "ffplay",
+        "version": "7.1",
+        "platform": "win32",
+        "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffplay_win32",
+        "install": 0
+    },
+     {
+        "name": "ffmpeg",
         "version": "7.1",
         "platform": "linux",
         "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffmpeg_linux",
         "install": 0
     },
     {
-        "name": "ffprobe_linux",
+        "name": "ffprobe",
         "version": "7.1",
         "platform": "linux",
         "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffprobe_linux",
         "install": 0
     },
     {
-        "name": "ffplay_darwin",
+        "name": "ffplay",
         "version": "7.1",
         "platform": "linux",
-        "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffplay_darwin",
+        "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffplay_linux",
         "install": 0
     },
     {
-        "name": "ffmpeg_darwin",
+        "name": "ffmpeg",
         "version": "7.1",
-        "platform": "linux",
+        "platform": "darwin",
         "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffmpeg_darwin",
         "install": 0
     },
     {
-        "name": "ffprobe_darwin",
+        "name": "ffprobe",
         "version": "7.1",
-        "platform": "linux",
+        "platform": "darwin",
         "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffprobe_darwin",
         "install": 0
     },
-    {
-        "name": "ffplay_linux",
+     {
+        "name": "ffplay",
         "version": "7.1",
-        "platform": "linux",
-        "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffprobe",
+        "platform": "darwin",
+        "link": "https://github.com/Shamim1977/Binaries/releases/download/v1.0.0/ffplay_darwin",
         "install": 0
     },
     {   
